@@ -1,0 +1,16 @@
+1.Install python3.6
+2.Install pip by going through this link https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation
+3.Install requests library for making requests over the internet using pip install requests
+4.Install BeautifulSoup for parsing the html document using pip install bs4
+5.Now install a parser for BeautifulSoup which is lxml by using pip install lxml
+6.Now go into the terminal and type "python assignment.py"
+7.After the script has finished its task a text file named "output.txt" will be creating the directory from which the script was run containing the output.
+
+In nutshell
+1.Install python
+2.Install pip
+3.pip install requests
+4.pip install bs4
+5.pip install lxml
+6.python assignment.py
+7.output will be in output.txt
